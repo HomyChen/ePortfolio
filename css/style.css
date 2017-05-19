@@ -1,0 +1,88 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: whitesmoke;
+}
+
+.but {
+    margin-right: 3vw;
+    padding: 0;
+    font-family: calibri;
+    font-weight: bold;
+    color: grey;
+    background-color: antiquewhite;
+    border: 0;
+    font-size: 16pt;
+    width: 15vw;
+    height: 10vh;
+}
+
+#aboutBut {
+    margin-left: 35vw;
+}
+
+#display {
+    width: 100vw;
+    height: 100vh;
+    margin-top: 30vh;
+    background-color: antiquewhite;
+}
+
+#dp {
+    position: absolute;
+    margin-left: 5vw;
+    margin-top: -10vw;
+    width: 20vw;
+    height: auto;
+    border-radius: 20px;
+}
+
+#name {
+    position: absolute;
+    margin-left: 35vw;
+    margin-top: -20vh;
+    font-family: Calibri;
+    font-weight: bold;
+    font-size: 36pt;
+}
+
+.disp {
+    position: absolute;
+    width: 100vw;
+    height: 90vh;
+    margin-top: 10vh;
+    background-color: antiquewhite;
+    display: block;
+}
+
+#aboutDiv {
+    
+}
+
+.content{
+    margin: 5vw;
+    font-family: calibri;
+    font-size: 16pt;
+}
+
+#projectsDiv {
+    
+    height: 550vh;
+    display: none;
+}
+
+#resumeDiv {
+    
+    display: none;
+}
+
+#screenshot {
+    display: block;
+    width: 100%;
+    margin-top: 8vh;
+}
+
+#resume{
+    width:100%;
+    height:70vh;
+}
